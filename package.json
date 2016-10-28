@@ -13,7 +13,7 @@
   "homepage": "https://github.com/dkunin/presence-parser",
   "keywords": [],
   "license": "MIT",
-  "description": "**DRAFT STAGE**",
+  "description": "",
   "dependencies": {
     "execa": "0.4.0"
   }
